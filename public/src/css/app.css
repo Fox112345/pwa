@@ -5,3 +5,11 @@
 .drawer-option {
   padding: 16px;
 }
+.shared-moment-card {
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.enable-notifications {
+  display: none;
+}
